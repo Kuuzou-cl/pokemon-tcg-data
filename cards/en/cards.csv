@@ -1,0 +1,245 @@
+id,name,id_category,previous_stage,img_small,img_large,id_ability,regulation,id_expansion,number,id_rarity,id_type
+,Ethan's Pinsir,1,,https://images.pokemontcg.io/sv10/1.png,https://images.pokemontcg.io/sv10/1_hires.png,,I,14,1,2,4
+,Yanma,1,,https://images.pokemontcg.io/sv10/2.png,https://images.pokemontcg.io/sv10/2_hires.png,,I,14,2,1,4
+,Yanmega ex,1,Yanma,https://images.pokemontcg.io/sv10/3.png,https://images.pokemontcg.io/sv10/3_hires.png,35,I,14,3,4,4
+,Pineco,1,,https://images.pokemontcg.io/sv10/4.png,https://images.pokemontcg.io/sv10/4_hires.png,,I,14,4,1,4
+,Shroomish,1,,https://images.pokemontcg.io/sv10/5.png,https://images.pokemontcg.io/sv10/5_hires.png,,I,14,5,1,4
+,Breloom,1,Shroomish,https://images.pokemontcg.io/sv10/6.png,https://images.pokemontcg.io/sv10/6_hires.png,,I,14,6,1,4
+,Cynthia's Roselia,1,,https://images.pokemontcg.io/sv10/7.png,https://images.pokemontcg.io/sv10/7_hires.png,,I,14,7,1,4
+,Cynthia's Roserade,1,Cynthia's Roselia,https://images.pokemontcg.io/sv10/8.png,https://images.pokemontcg.io/sv10/8_hires.png,36,I,14,8,3,4
+,Mow Rotom,1,,https://images.pokemontcg.io/sv10/9.png,https://images.pokemontcg.io/sv10/9_hires.png,,I,14,9,1,4
+,Shaymin,1,,https://images.pokemontcg.io/sv10/10.png,https://images.pokemontcg.io/sv10/10_hires.png,37,I,14,10,2,4
+,Dwebble,1,,https://images.pokemontcg.io/sv10/11.png,https://images.pokemontcg.io/sv10/11_hires.png,,I,14,11,1,4
+,Crustle,1,Dwebble,https://images.pokemontcg.io/sv10/12.png,https://images.pokemontcg.io/sv10/12_hires.png,38,I,14,12,3,4
+,Fomantis,1,,https://images.pokemontcg.io/sv10/13.png,https://images.pokemontcg.io/sv10/13_hires.png,,I,14,13,1,4
+,Lurantis,1,Fomantis,https://images.pokemontcg.io/sv10/14.png,https://images.pokemontcg.io/sv10/14_hires.png,,I,14,14,2,4
+,Team Rocket's Blipbug,1,,https://images.pokemontcg.io/sv10/15.png,https://images.pokemontcg.io/sv10/15_hires.png,,I,14,15,1,4
+,Applin,1,,https://images.pokemontcg.io/sv10/16.png,https://images.pokemontcg.io/sv10/16_hires.png,,I,14,16,1,4
+,Dipplin,1,Applin,https://images.pokemontcg.io/sv10/17.png,https://images.pokemontcg.io/sv10/17_hires.png,,I,14,17,1,4
+,Hydrapple,1,Dipplin,https://images.pokemontcg.io/sv10/18.png,https://images.pokemontcg.io/sv10/18_hires.png,,I,14,18,3,4
+,Team Rocket's Tarountula,1,,https://images.pokemontcg.io/sv10/19.png,https://images.pokemontcg.io/sv10/19_hires.png,,I,14,19,1,4
+,Team Rocket's Spidops,1,Team Rocket's Tarountula,https://images.pokemontcg.io/sv10/20.png,https://images.pokemontcg.io/sv10/20_hires.png,39,I,14,20,3,4
+,Smoliv,1,,https://images.pokemontcg.io/sv10/21.png,https://images.pokemontcg.io/sv10/21_hires.png,,I,14,21,1,4
+,Dolliv,1,Smoliv,https://images.pokemontcg.io/sv10/22.png,https://images.pokemontcg.io/sv10/22_hires.png,,I,14,22,1,4
+,Arboliva ex,1,Dolliv,https://images.pokemontcg.io/sv10/23.png,https://images.pokemontcg.io/sv10/23_hires.png,,I,14,23,4,4
+,Rellor,1,,https://images.pokemontcg.io/sv10/24.png,https://images.pokemontcg.io/sv10/24_hires.png,,H,14,24,1,4
+,Rabsca ex,1,Rellor,https://images.pokemontcg.io/sv10/25.png,https://images.pokemontcg.io/sv10/25_hires.png,,H,14,25,4,4
+,Teal Mask Ogerpon,1,,https://images.pokemontcg.io/sv10/26.png,https://images.pokemontcg.io/sv10/26_hires.png,,I,14,26,2,4
+,Growlithe,1,,https://images.pokemontcg.io/sv10/27.png,https://images.pokemontcg.io/sv10/27_hires.png,,I,14,27,1,5
+,Arcanine,1,Growlithe,https://images.pokemontcg.io/sv10/28.png,https://images.pokemontcg.io/sv10/28_hires.png,,I,14,28,2,5
+,Ponyta,1,,https://images.pokemontcg.io/sv10/29.png,https://images.pokemontcg.io/sv10/29_hires.png,,I,14,29,1,5
+,Rapidash,1,Ponyta,https://images.pokemontcg.io/sv10/30.png,https://images.pokemontcg.io/sv10/30_hires.png,40,I,14,30,2,5
+,Team Rocket's Moltres ex,1,,https://images.pokemontcg.io/sv10/31.png,https://images.pokemontcg.io/sv10/31_hires.png,,I,14,31,4,5
+,Ethan's Cyndaquil,1,,https://images.pokemontcg.io/sv10/32.png,https://images.pokemontcg.io/sv10/32_hires.png,,I,14,32,1,5
+,Ethan's Quilava,1,Ethan's Cyndaquil,https://images.pokemontcg.io/sv10/33.png,https://images.pokemontcg.io/sv10/33_hires.png,41,I,14,33,1,5
+,Ethan's Typhlosion,1,Ethan's Quilava,https://images.pokemontcg.io/sv10/34.png,https://images.pokemontcg.io/sv10/34_hires.png,,I,14,34,3,5
+,Ethan's Slugma,1,,https://images.pokemontcg.io/sv10/35.png,https://images.pokemontcg.io/sv10/35_hires.png,,I,14,35,1,5
+,Ethan's Magcargo,1,Ethan's Slugma,https://images.pokemontcg.io/sv10/36.png,https://images.pokemontcg.io/sv10/36_hires.png,42,I,14,36,3,5
+,Team Rocket's Houndour,1,,https://images.pokemontcg.io/sv10/37.png,https://images.pokemontcg.io/sv10/37_hires.png,,I,14,37,1,5
+,Team Rocket's Houndoom,1,Team Rocket's Houndour,https://images.pokemontcg.io/sv10/38.png,https://images.pokemontcg.io/sv10/38_hires.png,,I,14,38,2,5
+,Ethan's Ho-Oh ex,1,,https://images.pokemontcg.io/sv10/39.png,https://images.pokemontcg.io/sv10/39_hires.png,43,I,14,39,4,5
+,Torchic,1,,https://images.pokemontcg.io/sv10/40.png,https://images.pokemontcg.io/sv10/40_hires.png,,I,14,40,1,5
+,Combusken,1,Torchic,https://images.pokemontcg.io/sv10/41.png,https://images.pokemontcg.io/sv10/41_hires.png,,I,14,41,1,5
+,Blaziken,1,Combusken,https://images.pokemontcg.io/sv10/42.png,https://images.pokemontcg.io/sv10/42_hires.png,,I,14,42,3,5
+,Heat Rotom,1,,https://images.pokemontcg.io/sv10/43.png,https://images.pokemontcg.io/sv10/43_hires.png,,I,14,43,1,5
+,Hearthflame Mask Ogerpon,1,,https://images.pokemontcg.io/sv10/44.png,https://images.pokemontcg.io/sv10/44_hires.png,,I,14,44,2,5
+,Misty's Psyduck,1,,https://images.pokemontcg.io/sv10/45.png,https://images.pokemontcg.io/sv10/45_hires.png,44,I,14,45,2,3
+,Misty's Staryu,1,,https://images.pokemontcg.io/sv10/46.png,https://images.pokemontcg.io/sv10/46_hires.png,,I,14,46,1,3
+,Misty's Starmie,1,Misty's Staryu,https://images.pokemontcg.io/sv10/47.png,https://images.pokemontcg.io/sv10/47_hires.png,,I,14,47,2,3
+,Misty's Magikarp,1,,https://images.pokemontcg.io/sv10/48.png,https://images.pokemontcg.io/sv10/48_hires.png,45,I,14,48,1,3
+,Misty's Gyarados,1,Misty's Magikarp,https://images.pokemontcg.io/sv10/49.png,https://images.pokemontcg.io/sv10/49_hires.png,,I,14,49,3,3
+,Misty's Lapras,1,,https://images.pokemontcg.io/sv10/50.png,https://images.pokemontcg.io/sv10/50_hires.png,,I,14,50,1,3
+,Team Rocket's Articuno,1,,https://images.pokemontcg.io/sv10/51.png,https://images.pokemontcg.io/sv10/51_hires.png,46,I,14,51,3,3
+,Cynthia's Feebas,1,,https://images.pokemontcg.io/sv10/52.png,https://images.pokemontcg.io/sv10/52_hires.png,,I,14,52,1,3
+,Cynthia's Milotic,1,Cynthia's Feebas,https://images.pokemontcg.io/sv10/53.png,https://images.pokemontcg.io/sv10/53_hires.png,,I,14,53,2,3
+,Clamperl,1,,https://images.pokemontcg.io/sv10/54.png,https://images.pokemontcg.io/sv10/54_hires.png,,I,14,54,1,3
+,Huntail,1,Clamperl,https://images.pokemontcg.io/sv10/55.png,https://images.pokemontcg.io/sv10/55_hires.png,47,I,14,55,2,3
+,Gorebyss,1,Clamperl,https://images.pokemontcg.io/sv10/56.png,https://images.pokemontcg.io/sv10/56_hires.png,,I,14,56,3,3
+,Buizel,1,,https://images.pokemontcg.io/sv10/57.png,https://images.pokemontcg.io/sv10/57_hires.png,,I,14,57,1,3
+,Floatzel,1,Buizel,https://images.pokemontcg.io/sv10/58.png,https://images.pokemontcg.io/sv10/58_hires.png,,I,14,58,2,3
+,Snover,1,,https://images.pokemontcg.io/sv10/59.png,https://images.pokemontcg.io/sv10/59_hires.png,,I,14,59,1,3
+,Abomasnow,1,Snover,https://images.pokemontcg.io/sv10/60.png,https://images.pokemontcg.io/sv10/60_hires.png,,I,14,60,2,3
+,Wash Rotom,1,,https://images.pokemontcg.io/sv10/61.png,https://images.pokemontcg.io/sv10/61_hires.png,,I,14,61,1,3
+,Arrokuda,1,,https://images.pokemontcg.io/sv10/62.png,https://images.pokemontcg.io/sv10/62_hires.png,,I,14,62,1,3
+,Barraskewda,1,Arrokuda,https://images.pokemontcg.io/sv10/63.png,https://images.pokemontcg.io/sv10/63_hires.png,,I,14,63,2,3
+,Cetoddle,1,,https://images.pokemontcg.io/sv10/64.png,https://images.pokemontcg.io/sv10/64_hires.png,,I,14,64,1,3
+,Cetitan ex,1,Cetoddle,https://images.pokemontcg.io/sv10/65.png,https://images.pokemontcg.io/sv10/65_hires.png,48,I,14,65,4,3
+,Dondozo ex,1,,https://images.pokemontcg.io/sv10/66.png,https://images.pokemontcg.io/sv10/66_hires.png,,I,14,66,4,3
+,Wellspring Mask Ogerpon,1,,https://images.pokemontcg.io/sv10/67.png,https://images.pokemontcg.io/sv10/67_hires.png,,I,14,67,2,3
+,Electabuzz,1,,https://images.pokemontcg.io/sv10/68.png,https://images.pokemontcg.io/sv10/68_hires.png,,I,14,68,1,6
+,Electivire ex,1,Electabuzz,https://images.pokemontcg.io/sv10/69.png,https://images.pokemontcg.io/sv10/69_hires.png,,I,14,69,4,6
+,Team Rocket's Zapdos,1,,https://images.pokemontcg.io/sv10/70.png,https://images.pokemontcg.io/sv10/70_hires.png,,I,14,70,3,6
+,Ethan's Pichu,1,,https://images.pokemontcg.io/sv10/71.png,https://images.pokemontcg.io/sv10/71_hires.png,,I,14,71,1,6
+,Team Rocket's Mareep,1,,https://images.pokemontcg.io/sv10/72.png,https://images.pokemontcg.io/sv10/72_hires.png,,I,14,72,1,6
+,Team Rocket's Flaaffy,1,Team Rocket's Mareep,https://images.pokemontcg.io/sv10/73.png,https://images.pokemontcg.io/sv10/73_hires.png,,I,14,73,1,6
+,Team Rocket's Ampharos,1,Team Rocket's Flaaffy,https://images.pokemontcg.io/sv10/74.png,https://images.pokemontcg.io/sv10/74_hires.png,49,I,14,74,2,6
+,Electrike,1,,https://images.pokemontcg.io/sv10/75.png,https://images.pokemontcg.io/sv10/75_hires.png,,I,14,75,1,6
+,Manectric,1,Electrike,https://images.pokemontcg.io/sv10/76.png,https://images.pokemontcg.io/sv10/76_hires.png,,I,14,76,2,6
+,Rotom,1,,https://images.pokemontcg.io/sv10/77.png,https://images.pokemontcg.io/sv10/77_hires.png,,I,14,77,1,6
+,Zeraora,1,,https://images.pokemontcg.io/sv10/78.png,https://images.pokemontcg.io/sv10/78_hires.png,,I,14,78,3,6
+,Team Rocket's Drowzee,1,,https://images.pokemontcg.io/sv10/79.png,https://images.pokemontcg.io/sv10/79_hires.png,,I,14,79,1,8
+,Team Rocket's Hypno,1,Team Rocket's Drowzee,https://images.pokemontcg.io/sv10/80.png,https://images.pokemontcg.io/sv10/80_hires.png,,I,14,80,2,8
+,Team Rocket's Mewtwo ex,1,,https://images.pokemontcg.io/sv10/81.png,https://images.pokemontcg.io/sv10/81_hires.png,50,I,14,81,4,8
+,Team Rocket's Wobbuffet,1,,https://images.pokemontcg.io/sv10/82.png,https://images.pokemontcg.io/sv10/82_hires.png,,I,14,82,3,8
+,Steven's Baltoy,1,,https://images.pokemontcg.io/sv10/83.png,https://images.pokemontcg.io/sv10/83_hires.png,,I,14,83,1,8
+,Steven's Claydol,1,Steven's Baltoy,https://images.pokemontcg.io/sv10/84.png,https://images.pokemontcg.io/sv10/84_hires.png,,I,14,84,2,8
+,Team Rocket's Chingling,1,,https://images.pokemontcg.io/sv10/85.png,https://images.pokemontcg.io/sv10/85_hires.png,,I,14,85,1,8
+,Steven's Carbink,1,,https://images.pokemontcg.io/sv10/86.png,https://images.pokemontcg.io/sv10/86_hires.png,51,I,14,86,1,8
+,Team Rocket's Mimikyu,1,,https://images.pokemontcg.io/sv10/87.png,https://images.pokemontcg.io/sv10/87_hires.png,,I,14,87,2,8
+,Team Rocket's Dottler,1,Team Rocket's Blipbug,https://images.pokemontcg.io/sv10/88.png,https://images.pokemontcg.io/sv10/88_hires.png,,I,14,88,1,8
+,Team Rocket's Orbeetle,1,Team Rocket's Dottler,https://images.pokemontcg.io/sv10/89.png,https://images.pokemontcg.io/sv10/89_hires.png,52,I,14,89,2,8
+,Mankey,1,,https://images.pokemontcg.io/sv10/90.png,https://images.pokemontcg.io/sv10/90_hires.png,,I,14,90,1,7
+,Primeape,1,Mankey,https://images.pokemontcg.io/sv10/91.png,https://images.pokemontcg.io/sv10/91_hires.png,,I,14,91,1,7
+,Annihilape,1,Primeape,https://images.pokemontcg.io/sv10/92.png,https://images.pokemontcg.io/sv10/92_hires.png,53,I,14,92,3,7
+,Ethan's Sudowoodo,1,,https://images.pokemontcg.io/sv10/93.png,https://images.pokemontcg.io/sv10/93_hires.png,,I,14,93,1,7
+,Team Rocket's Larvitar,1,,https://images.pokemontcg.io/sv10/94.png,https://images.pokemontcg.io/sv10/94_hires.png,,I,14,94,1,7
+,Team Rocket's Pupitar,1,Team Rocket's Larvitar,https://images.pokemontcg.io/sv10/95.png,https://images.pokemontcg.io/sv10/95_hires.png,,I,14,95,1,7
+,Team Rocket's Tyranitar,1,Team Rocket's Pupitar,https://images.pokemontcg.io/sv10/96.png,https://images.pokemontcg.io/sv10/96_hires.png,54,I,14,96,3,7
+,Nosepass,1,,https://images.pokemontcg.io/sv10/97.png,https://images.pokemontcg.io/sv10/97_hires.png,,I,14,97,1,7
+,Probopass,1,Nosepass,https://images.pokemontcg.io/sv10/98.png,https://images.pokemontcg.io/sv10/98_hires.png,,I,14,98,2,7
+,Meditite,1,,https://images.pokemontcg.io/sv10/99.png,https://images.pokemontcg.io/sv10/99_hires.png,,I,14,99,1,7
+,Medicham,1,Meditite,https://images.pokemontcg.io/sv10/100.png,https://images.pokemontcg.io/sv10/100_hires.png,,I,14,100,2,7
+,Regirock ex,1,,https://images.pokemontcg.io/sv10/101.png,https://images.pokemontcg.io/sv10/101_hires.png,,I,14,101,4,7
+,Cynthia's Gible,1,,https://images.pokemontcg.io/sv10/102.png,https://images.pokemontcg.io/sv10/102_hires.png,,I,14,102,1,7
+,Cynthia's Gabite,1,Cynthia's Gible,https://images.pokemontcg.io/sv10/103.png,https://images.pokemontcg.io/sv10/103_hires.png,55,I,14,103,1,7
+,Cynthia's Garchomp ex,1,Cynthia's Gabite,https://images.pokemontcg.io/sv10/104.png,https://images.pokemontcg.io/sv10/104_hires.png,,I,14,104,4,7
+,Hippopotas,1,,https://images.pokemontcg.io/sv10/105.png,https://images.pokemontcg.io/sv10/105_hires.png,,H,14,105,1,7
+,Hippowdon,1,Hippopotas,https://images.pokemontcg.io/sv10/106.png,https://images.pokemontcg.io/sv10/106_hires.png,,H,14,106,2,7
+,Mudbray,1,,https://images.pokemontcg.io/sv10/107.png,https://images.pokemontcg.io/sv10/107_hires.png,,I,14,107,1,7
+,Mudsdale,1,Mudbray,https://images.pokemontcg.io/sv10/108.png,https://images.pokemontcg.io/sv10/108_hires.png,56,I,14,108,2,7
+,Arven's Toedscool,1,,https://images.pokemontcg.io/sv10/109.png,https://images.pokemontcg.io/sv10/109_hires.png,,I,14,109,1,7
+,Arven's Toedscruel,1,Arven's Toedscool,https://images.pokemontcg.io/sv10/110.png,https://images.pokemontcg.io/sv10/110_hires.png,,I,14,110,2,7
+,Cornerstone Mask Ogerpon,1,,https://images.pokemontcg.io/sv10/111.png,https://images.pokemontcg.io/sv10/111_hires.png,,I,14,111,2,7
+,Team Rocket's Ekans,1,,https://images.pokemontcg.io/sv10/112.png,https://images.pokemontcg.io/sv10/112_hires.png,,I,14,112,1,2
+,Team Rocket's Arbok,1,Team Rocket's Ekans,https://images.pokemontcg.io/sv10/113.png,https://images.pokemontcg.io/sv10/113_hires.png,57,I,14,113,2,2
+,Team Rocket's Nidoran♀,1,,https://images.pokemontcg.io/sv10/114.png,https://images.pokemontcg.io/sv10/114_hires.png,,I,14,114,1,2
+,Team Rocket's Nidorina,1,Team Rocket's Nidoran♀,https://images.pokemontcg.io/sv10/115.png,https://images.pokemontcg.io/sv10/115_hires.png,,I,14,115,1,2
+,Team Rocket's Nidoqueen,1,Team Rocket's Nidorina,https://images.pokemontcg.io/sv10/116.png,https://images.pokemontcg.io/sv10/116_hires.png,,I,14,116,2,2
+,Team Rocket's Nidoran♂,1,,https://images.pokemontcg.io/sv10/117.png,https://images.pokemontcg.io/sv10/117_hires.png,,I,14,117,1,2
+,Team Rocket's Nidorino,1,Team Rocket's Nidoran♂,https://images.pokemontcg.io/sv10/118.png,https://images.pokemontcg.io/sv10/118_hires.png,,I,14,118,1,2
+,Team Rocket's Nidoking ex,1,Team Rocket's Nidorino,https://images.pokemontcg.io/sv10/119.png,https://images.pokemontcg.io/sv10/119_hires.png,,I,14,119,4,2
+,Team Rocket's Zubat,1,,https://images.pokemontcg.io/sv10/120.png,https://images.pokemontcg.io/sv10/120_hires.png,,I,14,120,1,2
+,Team Rocket's Golbat,1,Team Rocket's Zubat,https://images.pokemontcg.io/sv10/121.png,https://images.pokemontcg.io/sv10/121_hires.png,58,I,14,121,2,2
+,Team Rocket's Crobat ex,1,Team Rocket's Golbat,https://images.pokemontcg.io/sv10/122.png,https://images.pokemontcg.io/sv10/122_hires.png,59,I,14,122,4,2
+,Team Rocket's Grimer,1,,https://images.pokemontcg.io/sv10/123.png,https://images.pokemontcg.io/sv10/123_hires.png,,I,14,123,1,2
+,Team Rocket's Muk,1,Team Rocket's Grimer,https://images.pokemontcg.io/sv10/124.png,https://images.pokemontcg.io/sv10/124_hires.png,,I,14,124,2,2
+,Team Rocket's Koffing,1,,https://images.pokemontcg.io/sv10/125.png,https://images.pokemontcg.io/sv10/125_hires.png,60,I,14,125,1,2
+,Team Rocket's Weezing,1,Team Rocket's Koffing,https://images.pokemontcg.io/sv10/126.png,https://images.pokemontcg.io/sv10/126_hires.png,,I,14,126,2,2
+,Team Rocket's Murkrow,1,,https://images.pokemontcg.io/sv10/127.png,https://images.pokemontcg.io/sv10/127_hires.png,,I,14,127,2,2
+,Team Rocket's Sneasel,1,,https://images.pokemontcg.io/sv10/128.png,https://images.pokemontcg.io/sv10/128_hires.png,,I,14,128,3,2
+,Cynthia's Spiritomb,1,,https://images.pokemontcg.io/sv10/129.png,https://images.pokemontcg.io/sv10/129_hires.png,,I,14,129,2,2
+,Marnie's Purrloin,1,,https://images.pokemontcg.io/sv10/130.png,https://images.pokemontcg.io/sv10/130_hires.png,,I,14,130,1,2
+,Marnie's Liepard,1,Marnie's Purrloin,https://images.pokemontcg.io/sv10/131.png,https://images.pokemontcg.io/sv10/131_hires.png,,I,14,131,2,2
+,Marnie's Scraggy,1,,https://images.pokemontcg.io/sv10/132.png,https://images.pokemontcg.io/sv10/132_hires.png,,I,14,132,1,2
+,Marnie's Scrafty,1,Marnie's Scraggy,https://images.pokemontcg.io/sv10/133.png,https://images.pokemontcg.io/sv10/133_hires.png,,I,14,133,2,2
+,Marnie's Impidimp,1,,https://images.pokemontcg.io/sv10/134.png,https://images.pokemontcg.io/sv10/134_hires.png,,I,14,134,1,2
+,Marnie's Morgrem,1,Marnie's Impidimp,https://images.pokemontcg.io/sv10/135.png,https://images.pokemontcg.io/sv10/135_hires.png,,I,14,135,2,2
+,Marnie's Grimmsnarl ex,1,Marnie's Morgrem,https://images.pokemontcg.io/sv10/136.png,https://images.pokemontcg.io/sv10/136_hires.png,61,I,14,136,4,2
+,Marnie's Morpeko,1,,https://images.pokemontcg.io/sv10/137.png,https://images.pokemontcg.io/sv10/137_hires.png,,I,14,137,1,2
+,Arven's Maschiff,1,,https://images.pokemontcg.io/sv10/138.png,https://images.pokemontcg.io/sv10/138_hires.png,,I,14,138,1,2
+,Arven's Mabosstiff ex,1,Arven's Maschiff,https://images.pokemontcg.io/sv10/139.png,https://images.pokemontcg.io/sv10/139_hires.png,,I,14,139,4,2
+,Forretress,1,Pineco,https://images.pokemontcg.io/sv10/140.png,https://images.pokemontcg.io/sv10/140_hires.png,,I,14,140,2,9
+,Skarmory,1,,https://images.pokemontcg.io/sv10/141.png,https://images.pokemontcg.io/sv10/141_hires.png,,I,14,141,1,9
+,Steven's Skarmory,1,,https://images.pokemontcg.io/sv10/142.png,https://images.pokemontcg.io/sv10/142_hires.png,,I,14,142,1,9
+,Steven's Beldum,1,,https://images.pokemontcg.io/sv10/143.png,https://images.pokemontcg.io/sv10/143_hires.png,,I,14,143,1,9
+,Steven's Metang,1,Steven's Beldum,https://images.pokemontcg.io/sv10/144.png,https://images.pokemontcg.io/sv10/144_hires.png,,I,14,144,2,9
+,Steven's Metagross ex,1,Steven's Metang,https://images.pokemontcg.io/sv10/145.png,https://images.pokemontcg.io/sv10/145_hires.png,62,I,14,145,4,9
+,Zamazenta,1,,https://images.pokemontcg.io/sv10/146.png,https://images.pokemontcg.io/sv10/146_hires.png,,I,14,146,3,9
+,Team Rocket's Rattata,1,,https://images.pokemontcg.io/sv10/147.png,https://images.pokemontcg.io/sv10/147_hires.png,,I,14,147,1,1
+,Team Rocket's Raticate,1,Team Rocket's Rattata,https://images.pokemontcg.io/sv10/148.png,https://images.pokemontcg.io/sv10/148_hires.png,,I,14,148,1,1
+,Team Rocket's Meowth,1,,https://images.pokemontcg.io/sv10/149.png,https://images.pokemontcg.io/sv10/149_hires.png,,I,14,149,1,1
+,Team Rocket's Persian ex,1,Team Rocket's Meowth,https://images.pokemontcg.io/sv10/150.png,https://images.pokemontcg.io/sv10/150_hires.png,,I,14,150,4,1
+,Kangaskhan,1,,https://images.pokemontcg.io/sv10/151.png,https://images.pokemontcg.io/sv10/151_hires.png,,I,14,151,1,1
+,Tauros,1,,https://images.pokemontcg.io/sv10/152.png,https://images.pokemontcg.io/sv10/152_hires.png,,I,14,152,1,1
+,Team Rocket's Porygon,1,,https://images.pokemontcg.io/sv10/153.png,https://images.pokemontcg.io/sv10/153_hires.png,,I,14,153,1,1
+,Team Rocket's Porygon2,1,Team Rocket's Porygon,https://images.pokemontcg.io/sv10/154.png,https://images.pokemontcg.io/sv10/154_hires.png,,I,14,154,1,1
+,Team Rocket's Porygon-Z,1,Team Rocket's Porygon2,https://images.pokemontcg.io/sv10/155.png,https://images.pokemontcg.io/sv10/155_hires.png,63,I,14,155,2,1
+,Taillow,1,,https://images.pokemontcg.io/sv10/156.png,https://images.pokemontcg.io/sv10/156_hires.png,,I,14,156,1,1
+,Swellow,1,Taillow,https://images.pokemontcg.io/sv10/157.png,https://images.pokemontcg.io/sv10/157_hires.png,,I,14,157,1,1
+,Arven's Skwovet,1,,https://images.pokemontcg.io/sv10/158.png,https://images.pokemontcg.io/sv10/158_hires.png,,I,14,158,1,1
+,Arven's Greedent,1,Arven's Skwovet,https://images.pokemontcg.io/sv10/159.png,https://images.pokemontcg.io/sv10/159_hires.png,64,I,14,159,3,1
+,Squawkabilly,1,,https://images.pokemontcg.io/sv10/160.png,https://images.pokemontcg.io/sv10/160_hires.png,,I,14,160,1,1
+,Arven's Sandwich,2,,https://images.pokemontcg.io/sv10/161.png,https://images.pokemontcg.io/sv10/161_hires.png,,I,14,161,2,
+,Cynthia's Power Weight,2,,https://images.pokemontcg.io/sv10/162.png,https://images.pokemontcg.io/sv10/162_hires.png,,I,14,162,2,
+,Emcee's Hype,2,,https://images.pokemontcg.io/sv10/163.png,https://images.pokemontcg.io/sv10/163_hires.png,,I,14,163,1,
+,Energy Recycler,2,,https://images.pokemontcg.io/sv10/164.png,https://images.pokemontcg.io/sv10/164_hires.png,,I,14,164,2,
+,Ethan's Adventure,2,,https://images.pokemontcg.io/sv10/165.png,https://images.pokemontcg.io/sv10/165_hires.png,,I,14,165,2,
+,Granite Cave,2,,https://images.pokemontcg.io/sv10/166.png,https://images.pokemontcg.io/sv10/166_hires.png,,I,14,166,2,
+,Judge,2,,https://images.pokemontcg.io/sv10/167.png,https://images.pokemontcg.io/sv10/167_hires.png,,G,14,167,2,
+,Sacred Ash,2,,https://images.pokemontcg.io/sv10/168.png,https://images.pokemontcg.io/sv10/168_hires.png,,I,14,168,2,
+,Spikemuth Gym,2,,https://images.pokemontcg.io/sv10/169.png,https://images.pokemontcg.io/sv10/169_hires.png,,I,14,169,2,
+,Team Rocket's Archer,2,,https://images.pokemontcg.io/sv10/170.png,https://images.pokemontcg.io/sv10/170_hires.png,,I,14,170,2,
+,Team Rocket's Ariana,2,,https://images.pokemontcg.io/sv10/171.png,https://images.pokemontcg.io/sv10/171_hires.png,,I,14,171,2,
+,Team Rocket's Bother-Bot,2,,https://images.pokemontcg.io/sv10/172.png,https://images.pokemontcg.io/sv10/172_hires.png,,I,14,172,2,
+,Team Rocket's Factory,2,,https://images.pokemontcg.io/sv10/173.png,https://images.pokemontcg.io/sv10/173_hires.png,,I,14,173,2,
+,Team Rocket's Giovanni,2,,https://images.pokemontcg.io/sv10/174.png,https://images.pokemontcg.io/sv10/174_hires.png,,I,14,174,2,
+,Team Rocket's Great Ball,2,,https://images.pokemontcg.io/sv10/175.png,https://images.pokemontcg.io/sv10/175_hires.png,,I,14,175,2,
+,Team Rocket's Petrel,2,,https://images.pokemontcg.io/sv10/176.png,https://images.pokemontcg.io/sv10/176_hires.png,,I,14,176,2,
+,Team Rocket's Proton,2,,https://images.pokemontcg.io/sv10/177.png,https://images.pokemontcg.io/sv10/177_hires.png,,I,14,177,2,
+,Team Rocket's Transceiver,2,,https://images.pokemontcg.io/sv10/178.png,https://images.pokemontcg.io/sv10/178_hires.png,,I,14,178,2,
+,Team Rocket's Venture Bomb,2,,https://images.pokemontcg.io/sv10/179.png,https://images.pokemontcg.io/sv10/179_hires.png,,I,14,179,2,
+,Team Rocket's Watchtower,2,,https://images.pokemontcg.io/sv10/180.png,https://images.pokemontcg.io/sv10/180_hires.png,,I,14,180,2,
+,TM Machine,2,,https://images.pokemontcg.io/sv10/181.png,https://images.pokemontcg.io/sv10/181_hires.png,,H,14,181,2,
+,Team Rocket's Energy,3,,https://images.pokemontcg.io/sv10/182.png,https://images.pokemontcg.io/sv10/182_hires.png,,I,14,182,2,
+,Yanma,1,,https://images.pokemontcg.io/sv10/183.png,https://images.pokemontcg.io/sv10/183_hires.png,,I,14,183,6,4
+,Cynthia's Roserade,1,Cynthia's Roselia,https://images.pokemontcg.io/sv10/184.png,https://images.pokemontcg.io/sv10/184_hires.png,36,I,14,184,6,4
+,Shaymin,1,,https://images.pokemontcg.io/sv10/185.png,https://images.pokemontcg.io/sv10/185_hires.png,37,I,14,185,6,4
+,Crustle,1,Dwebble,https://images.pokemontcg.io/sv10/186.png,https://images.pokemontcg.io/sv10/186_hires.png,38,I,14,186,6,4
+,Team Rocket's Spidops,1,Team Rocket's Tarountula,https://images.pokemontcg.io/sv10/187.png,https://images.pokemontcg.io/sv10/187_hires.png,39,I,14,187,6,4
+,Hydrapple,1,Dipplin,https://images.pokemontcg.io/sv10/188.png,https://images.pokemontcg.io/sv10/188_hires.png,,I,14,188,6,4
+,Rapidash,1,Ponyta,https://images.pokemontcg.io/sv10/189.png,https://images.pokemontcg.io/sv10/189_hires.png,40,I,14,189,6,5
+,Ethan's Typhlosion,1,Ethan's Quilava,https://images.pokemontcg.io/sv10/190.png,https://images.pokemontcg.io/sv10/190_hires.png,,I,14,190,6,5
+,Team Rocket's Houndoom,1,Team Rocket's Houndour,https://images.pokemontcg.io/sv10/191.png,https://images.pokemontcg.io/sv10/191_hires.png,,I,14,191,6,5
+,Blaziken,1,Combusken,https://images.pokemontcg.io/sv10/192.png,https://images.pokemontcg.io/sv10/192_hires.png,,I,14,192,6,5
+,Misty's Psyduck,1,,https://images.pokemontcg.io/sv10/193.png,https://images.pokemontcg.io/sv10/193_hires.png,44,I,14,193,6,3
+,Misty's Lapras,1,,https://images.pokemontcg.io/sv10/194.png,https://images.pokemontcg.io/sv10/194_hires.png,,I,14,194,6,3
+,Clamperl,1,,https://images.pokemontcg.io/sv10/195.png,https://images.pokemontcg.io/sv10/195_hires.png,,I,14,195,6,3
+,Electrike,1,,https://images.pokemontcg.io/sv10/196.png,https://images.pokemontcg.io/sv10/196_hires.png,,I,14,196,6,6
+,Rotom,1,,https://images.pokemontcg.io/sv10/197.png,https://images.pokemontcg.io/sv10/197_hires.png,,I,14,197,6,6
+,Team Rocket's Orbeetle,1,Team Rocket's Dottler,https://images.pokemontcg.io/sv10/198.png,https://images.pokemontcg.io/sv10/198_hires.png,52,I,14,198,6,8
+,Team Rocket's Weezing,1,Team Rocket's Koffing,https://images.pokemontcg.io/sv10/199.png,https://images.pokemontcg.io/sv10/199_hires.png,,I,14,199,6,2
+,Team Rocket's Murkrow,1,,https://images.pokemontcg.io/sv10/200.png,https://images.pokemontcg.io/sv10/200_hires.png,,I,14,200,6,2
+,Zamazenta,1,,https://images.pokemontcg.io/sv10/201.png,https://images.pokemontcg.io/sv10/201_hires.png,,I,14,201,6,9
+,Team Rocket's Raticate,1,Team Rocket's Rattata,https://images.pokemontcg.io/sv10/202.png,https://images.pokemontcg.io/sv10/202_hires.png,,I,14,202,6,1
+,Team Rocket's Meowth,1,,https://images.pokemontcg.io/sv10/203.png,https://images.pokemontcg.io/sv10/203_hires.png,,I,14,203,6,1
+,Kangaskhan,1,,https://images.pokemontcg.io/sv10/204.png,https://images.pokemontcg.io/sv10/204_hires.png,,I,14,204,6,1
+,Arven's Greedent,1,Arven's Skwovet,https://images.pokemontcg.io/sv10/205.png,https://images.pokemontcg.io/sv10/205_hires.png,64,I,14,205,6,1
+,Yanmega ex,1,Yanma,https://images.pokemontcg.io/sv10/206.png,https://images.pokemontcg.io/sv10/206_hires.png,35,I,14,206,5,4
+,Arboliva ex,1,Dolliv,https://images.pokemontcg.io/sv10/207.png,https://images.pokemontcg.io/sv10/207_hires.png,,I,14,207,5,4
+,Team Rocket's Moltres ex,1,,https://images.pokemontcg.io/sv10/208.png,https://images.pokemontcg.io/sv10/208_hires.png,,I,14,208,5,5
+,Ethan's Ho-Oh ex,1,,https://images.pokemontcg.io/sv10/209.png,https://images.pokemontcg.io/sv10/209_hires.png,43,I,14,209,5,5
+,Cetitan ex,1,Cetoddle,https://images.pokemontcg.io/sv10/210.png,https://images.pokemontcg.io/sv10/210_hires.png,48,I,14,210,5,3
+,Dondozo ex,1,,https://images.pokemontcg.io/sv10/211.png,https://images.pokemontcg.io/sv10/211_hires.png,,I,14,211,5,3
+,Electivire ex,1,Electabuzz,https://images.pokemontcg.io/sv10/212.png,https://images.pokemontcg.io/sv10/212_hires.png,,I,14,212,5,6
+,Team Rocket's Mewtwo ex,1,,https://images.pokemontcg.io/sv10/213.png,https://images.pokemontcg.io/sv10/213_hires.png,50,I,14,213,5,8
+,Regirock ex,1,,https://images.pokemontcg.io/sv10/214.png,https://images.pokemontcg.io/sv10/214_hires.png,,I,14,214,5,7
+,Cynthia's Garchomp ex,1,Cynthia's Gabite,https://images.pokemontcg.io/sv10/215.png,https://images.pokemontcg.io/sv10/215_hires.png,,I,14,215,5,7
+,Team Rocket's Nidoking ex,1,Team Rocket's Nidorino,https://images.pokemontcg.io/sv10/216.png,https://images.pokemontcg.io/sv10/216_hires.png,,I,14,216,5,2
+,Team Rocket's Crobat ex,1,Team Rocket's Golbat,https://images.pokemontcg.io/sv10/217.png,https://images.pokemontcg.io/sv10/217_hires.png,59,I,14,217,5,2
+,Arven's Mabosstiff ex,1,Arven's Maschiff,https://images.pokemontcg.io/sv10/218.png,https://images.pokemontcg.io/sv10/218_hires.png,,I,14,218,5,2
+,Team Rocket's Persian ex,1,Team Rocket's Meowth,https://images.pokemontcg.io/sv10/219.png,https://images.pokemontcg.io/sv10/219_hires.png,,I,14,219,5,1
+,Emcee's Hype,2,,https://images.pokemontcg.io/sv10/220.png,https://images.pokemontcg.io/sv10/220_hires.png,,I,14,220,5,
+,Ethan's Adventure,2,,https://images.pokemontcg.io/sv10/221.png,https://images.pokemontcg.io/sv10/221_hires.png,,I,14,221,5,
+,Judge,2,,https://images.pokemontcg.io/sv10/222.png,https://images.pokemontcg.io/sv10/222_hires.png,,G,14,222,5,
+,Team Rocket's Archer,2,,https://images.pokemontcg.io/sv10/223.png,https://images.pokemontcg.io/sv10/223_hires.png,,I,14,223,5,
+,Team Rocket's Ariana,2,,https://images.pokemontcg.io/sv10/224.png,https://images.pokemontcg.io/sv10/224_hires.png,,I,14,224,5,
+,Team Rocket's Giovanni,2,,https://images.pokemontcg.io/sv10/225.png,https://images.pokemontcg.io/sv10/225_hires.png,,I,14,225,5,
+,Team Rocket's Petrel,2,,https://images.pokemontcg.io/sv10/226.png,https://images.pokemontcg.io/sv10/226_hires.png,,I,14,226,5,
+,Team Rocket's Proton,2,,https://images.pokemontcg.io/sv10/227.png,https://images.pokemontcg.io/sv10/227_hires.png,,I,14,227,5,
+,Yanmega ex,1,Yanma,https://images.pokemontcg.io/sv10/228.png,https://images.pokemontcg.io/sv10/228_hires.png,35,I,14,228,7,4
+,Team Rocket's Moltres ex,1,,https://images.pokemontcg.io/sv10/229.png,https://images.pokemontcg.io/sv10/229_hires.png,,I,14,229,7,5
+,Ethan's Ho-Oh ex,1,,https://images.pokemontcg.io/sv10/230.png,https://images.pokemontcg.io/sv10/230_hires.png,43,I,14,230,7,5
+,Team Rocket's Mewtwo ex,1,,https://images.pokemontcg.io/sv10/231.png,https://images.pokemontcg.io/sv10/231_hires.png,50,I,14,231,7,8
+,Cynthia's Garchomp ex,1,Cynthia's Gabite,https://images.pokemontcg.io/sv10/232.png,https://images.pokemontcg.io/sv10/232_hires.png,,I,14,232,7,7
+,Team Rocket's Nidoking ex,1,Team Rocket's Nidorino,https://images.pokemontcg.io/sv10/233.png,https://images.pokemontcg.io/sv10/233_hires.png,,I,14,233,7,2
+,Team Rocket's Crobat ex,1,Team Rocket's Golbat,https://images.pokemontcg.io/sv10/234.png,https://images.pokemontcg.io/sv10/234_hires.png,59,I,14,234,7,2
+,Arven's Mabosstiff ex,1,Arven's Maschiff,https://images.pokemontcg.io/sv10/235.png,https://images.pokemontcg.io/sv10/235_hires.png,,I,14,235,7,2
+,Ethan's Adventure,2,,https://images.pokemontcg.io/sv10/236.png,https://images.pokemontcg.io/sv10/236_hires.png,,I,14,236,7,
+,Team Rocket's Ariana,2,,https://images.pokemontcg.io/sv10/237.png,https://images.pokemontcg.io/sv10/237_hires.png,,I,14,237,7,
+,Team Rocket's Giovanni,2,,https://images.pokemontcg.io/sv10/238.png,https://images.pokemontcg.io/sv10/238_hires.png,,I,14,238,7,
+,Ethan's Ho-Oh ex,1,,https://images.pokemontcg.io/sv10/239.png,https://images.pokemontcg.io/sv10/239_hires.png,43,I,14,239,8,5
+,Team Rocket's Mewtwo ex,1,,https://images.pokemontcg.io/sv10/240.png,https://images.pokemontcg.io/sv10/240_hires.png,50,I,14,240,8,8
+,Cynthia's Garchomp ex,1,Cynthia's Gabite,https://images.pokemontcg.io/sv10/241.png,https://images.pokemontcg.io/sv10/241_hires.png,,I,14,241,8,7
+,Team Rocket's Crobat ex,1,Team Rocket's Golbat,https://images.pokemontcg.io/sv10/242.png,https://images.pokemontcg.io/sv10/242_hires.png,59,I,14,242,8,2
+,Jamming Tower,2,,https://images.pokemontcg.io/sv10/243.png,https://images.pokemontcg.io/sv10/243_hires.png,,H,14,243,8,
+,Levincia,2,,https://images.pokemontcg.io/sv10/244.png,https://images.pokemontcg.io/sv10/244_hires.png,,I,14,244,8,
