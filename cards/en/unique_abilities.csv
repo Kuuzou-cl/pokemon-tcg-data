@@ -1,31 +1,24 @@
 name,text
-Buzzing Boost,"Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may search your deck for up to 3 Basic Grass Energy cards and attach them to this Pokémon. Then, shuffle your deck."
-Cheer On to Glory,Attacks used by your Cynthia's Pokémon do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
-Flower Curtain,"Prevent all damage done to your Benched Pokémon that don't have a Rule Box by attacks from your opponent's Pokémon. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)"
-Mysterious Rock Inn,Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex.
-Charging Up,"Once during your turn, you may attach a Basic Energy card from your discard pile to this Pokémon."
-Hurried Gait,"Once during your turn, you may draw a card."
-Bonded by the Journey,"Once during your turn, you may search your deck for an Ethan's Adventure card, reveal it, and put it into your hand. Then, shuffle your deck."
-Melt Away,"If this Pokémon has no Energy attached, it has no Retreat Cost."
-Golden Flame,"Once during your turn, you may attach up to 2 Basic Fire Energy cards from your hand to 1 of your Benched Ethan's Pokémon."
-Flustered Leap,"Once during your turn, if this Pokémon is on your Bench, you may discard the bottom card of your deck. If you do, discard all cards from this Pokémon and put this Pokémon on top of your deck."
-So Submerged,"As long as this Pokémon is on your Bench, prevent all damage from and effects of attacks from your opponent's Pokémon done to this Pokémon."
-Repelling Veil,Prevent all effects of attacks used by your opponent's Pokémon done to your Basic Team Rocket's Pokémon. (Existing effects are not removed. Damage is not an effect.)
-Diver's Catch,"When 1 of your Water Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may put all Basic Water Energy attached to that Pokémon into your hand instead of the discard pile."
-Snow Camouflage,"Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon."
-Darkest Impulse,"Whenever your opponent plays a Pokémon from their hand to evolve 1 of their Pokémon, put 4 damage counters on that Pokémon. The effect of Darkest Impulse doesn't stack."
-Power Saver,This Pokémon can't attack unless you have 4 or more Team Rocket's Pokémon in play.
-Stone Palace,"As long as this Pokémon is on your Bench, all of your Steven's Pokémon take 30 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). The effect of Stone Palace doesn't stack."
-Rocket Brain,"As often as you like during your turn, you may move 1 damage counter from 1 of your Team Rocket's Pokémon to another of your Pokémon."
-Lose Cool,"If this Pokémon has 2 or more damage counters on it, attacks used by this Pokémon do 120 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
-Sand Stream,"During Pokémon Checkup, if this Pokémon is in the Active Spot, put 2 damage counters on each of your opponent's Basic Pokémon."
-Champion's Call,"Once during your turn, you may search your deck for a Cynthia's Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
-Mud Coat,This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
-Potent Glare,"As long as this Pokémon is in the Active Spot, your opponent can't play any Pokémon that has an Ability from their hand, except for Team Rocket's Pokémon."
-Sneaky Bite,"When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon."
-Biting Spree,"When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may choose 2 of your opponent's Pokémon and put 2 damage counters on each of them."
-Smog Signals,"If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), search your deck for up to 2 Pokémon that have ""Koffing"" in their name and put them onto your Bench. Then, shuffle your deck."
-Punk Up,"When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 5 Basic Darkness Energy cards and attach them to your Marnie's Pokémon in any way you like. Then, shuffle your deck."
-X-Boot,"Once during your turn, you may search your deck for a Basic Psychic Energy card, a Basic Metal Energy card, or 1 of each and attach them to your Psychic Pokémon and Metal Pokémon in any way you like. Then, shuffle your deck."
-Reconstitute,"You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may draw a card."
-Greedy Order,"When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put up to 2 Arven's Sandwich cards from your discard pile into your hand."
+Counterattack Quills,"If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon."
+Adaptive Evolution,This Pokémon can evolve during your first turn or the turn you play it.
+Trap Territory,Your opponent's Active Pokémon's Retreat Cost is Colorless more.
+Enriching Oil,"When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may heal all damage from 1 of your Pokémon."
+Fire Off,"As often as you like during your turn, you may move a Fire Energy from 1 of your Benched Pokémon to your Active Pokémon."
+Strange Behavior,"As often as you like during your turn, you may move 1 damage counter from 1 of your other Pokémon to this Pokémon."
+Energy Carnival,"Once during your turn, you may attach a Basic Energy card from your hand to 1 of your Pokémon."
+Electricity Pouches,This Pokémon can't be Paralyzed.
+Electrogenesis,"Once during your turn, you may search your deck for a Basic Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+Tandem Unit,"Once during your turn, you may search your deck for up to 2 Basic Lightning Pokémon and put them onto your Bench. Then, shuffle your deck."
+Psychic Embrace,"As often as you like during your turn, you may attach a Basic Psychic Energy card from your discard pile to 1 of your Psychic Pokémon. If you attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon. You can't use this Ability on a Pokémon that would be Knocked Out."
+Blooming Garden,Your Pokémon in play have no Weakness.
+Mischievous Lock,"As long as this Pokémon is in the Active Spot, Basic Pokémon in play (both yours and your opponent's) have no Abilities, except for Mischievous Lock."
+Well-Baked Body,This Pokémon can't be Burned. Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon.
+Flying Entry,"When you play this Pokémon from your hand onto your Bench during your turn, you may choose 2 of your opponent's Benched Pokémon and put 1 damage counter on each of them."
+Exoskeleton,This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).
+Dino Cry,"Once during your turn, you may attach up to 2 Basic Fighting Energy cards from your discard pile to your Basic Fighting Pokémon in any way you like. If you use this Ability, your turn ends."
+Poison Sacs,Your opponent's Poisoned Pokémon don't recover from that Special Condition when they evolve or devolve.
+Leadership,Your Basic Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+Intimidating Howl,"Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+Rumbling Engine,"You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand."
+Busybody Nurse,"Once during your turn, you may use this Ability. Your Active Pokémon recovers from all Special Conditions."
+Nest Stash,"Once during your turn, you may shuffle your hand and put it on the bottom of your deck. If you put any cards on the bottom of your deck in this way, draw a card."

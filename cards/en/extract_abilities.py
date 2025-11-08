@@ -57,7 +57,7 @@ def save_csv(abilities, out_path):
 
 def main():
     p = argparse.ArgumentParser(description="Extraer abilities únicas (name,text) desde JSON de cartas")
-    p.add_argument("input", nargs="?", default="SV10.json", help="Archivo JSON de cartas")
+    p.add_argument("input", nargs="?", default="SV1.json", help="Archivo JSON de cartas")
     p.add_argument("--out-csv", default="unique_abilities.csv", help="CSV de salida (solo name,text)")
     args = p.parse_args()
 
